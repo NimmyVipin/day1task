@@ -1,0 +1,233 @@
+@charset "utf-8";
+@import "normalize";
+@import "bootstrap.min.css";
+@import "animation.css";
+$g:#6d6d6d;
+$b: #0e0e0e;
+
+
+
+
+body {
+    font-family: 'Roboto', 'Tahoma', 'Arial', sans-serif;
+    font-weight: 300;
+}
+
+.main-outer{
+  padding-top: 50px;
+}
+
+.studio{
+  padding-top: 50px;
+}
+
+
+
+ 
+
+
+.page-title h1 {
+    margin: 0;
+    line-height: 1;
+}
+
+
+  
+    .team
+    {
+
+   .team-title
+   {
+    text-align: center;
+    margin-bottom: 70px;
+    }
+    }
+    
+    
+
+
+
+
+   .team 
+   {   
+   .team-title h2 {
+    margin: 0;
+}
+   }
+ 
+
+
+
+.page-title p {
+    margin-top: 25px;
+}
+
+p{
+  .lead
+   {
+    font-size: 19px;
+}
+}
+p {
+    font-size: 15px;
+    line-height: 1.8;
+    
+}
+
+.page-title .page-title-image {
+    margin-top: 30px;
+}
+
+.page-title .page-title-image img {
+    width: 100%;
+}
+
+
+ .services {
+    margin-top: 60px;
+}
+
+ .service-block {
+    margin-bottom: 30px;
+}
+
+h4 {
+    font-size: 18px;
+    font-weight: 300;
+line-height: 1.8;
+color: $b;
+font-family: 'Lora', serif;
+}
+
+.service-block p {
+    margin: 15px 0 0;
+}
+
+ .approach {
+    margin-top: 150px;
+}
+
+
+  .approach
+  { 
+    .text 
+    {
+    padding: 25px 0;
+  }
+}
+
+
+  .approach .text h2 {
+    margin: 0;
+}
+h2 {
+    font-size: 28px;
+}
+ h2{
+    font-weight: 300;
+    line-height: 1.8;
+    color: $b;
+    font-family: 'Lora', serif;
+}
+
+  .approach 
+  {.text p {
+    font-size: 19px;
+}
+  }
+p {
+    font-size: 15px;
+    line-height: 1.8;
+    color: $g;
+}
+
+
+
+ .approach 
+ {
+ .text 
+ {
+ .links li 
+ {
+    margin-bottom: 15px;
+}
+ }
+ }
+
+ .pic {
+    width: 100%;   
+}
+
+ 
+
+
+
+.services
+{
+
+ .service-block h4 {
+    margin: 0;
+}
+}
+
+
+
+.team-title p {
+    margin: 0;
+    font-size: 17px;
+}
+.team-member {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+ .photo {
+    border-radius: 500px;
+    overflow: hidden;
+}
+
+.photo img {
+    width: 100%;
+    vertical-align: middle;
+}
+
+.img-circle{
+  border-radius: 200px;
+  width: 50px;
+  height: 200px;
+
+}
+
+ .content {
+    margin-top: 20px;
+}
+
+ .content h3 {
+    margin: 0;
+    text-align: center;
+}
+h3 {
+    font-size: 22px;
+
+    font-weight: 300;
+    line-height: 1.8;
+    
+    font-family: 'Lora', serif;
+}
+
+ .content p {
+    margin: 0;
+}
+p {
+    font-size: 15px;
+    line-height: 1.8;
+    color: $g;
+}
+
+
+
+
+   .team{
+  text-align: center;
+
+}
